@@ -4,7 +4,7 @@ Screen recording, Instant Replay and a multi-track editor for Windows.
 
 ## Download
 
-**[MrClipy-Setup-0.2.0.exe](https://github.com/justpainful/MrClipy/releases/latest/download/MrClipy-Setup-0.2.0.exe)** (143 MB, Windows 10 or 11, 64-bit)
+**[MrClipy-Setup-0.2.0.exe](https://github.com/justpainful/MrClipy/releases/latest/download/MrClipy-Setup-0.2.0.exe)** (158 MB, Windows 10 or 11, 64-bit)
 
 1. Open the file and follow the steps. No administrator rights are needed.
 2. If Windows shows "Windows protected your PC", choose **More info**, then **Run anyway** (the installer isn't code-signed).
@@ -14,7 +14,7 @@ To remove it: Settings, Apps, Mr.Clipy, Uninstall. Your recordings (Videos\MrCli
 
 ## التحميل
 
-**[MrClipy-Setup-0.2.0.exe](https://github.com/justpainful/MrClipy/releases/latest/download/MrClipy-Setup-0.2.0.exe)** (143 ميقا، ويندوز 10 أو 11)
+**[MrClipy-Setup-0.2.0.exe](https://github.com/justpainful/MrClipy/releases/latest/download/MrClipy-Setup-0.2.0.exe)** (158 ميقا، ويندوز 10 أو 11)
 
 1. افتح الملف وكمّل الخطوات، وما يحتاج صلاحيات مدير.
 2. إذا طلعت رسالة "Windows protected your PC" اضغط **More info** ثم **Run anyway**، لأن المثبّت غير موقّع.
